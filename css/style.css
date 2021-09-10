@@ -6,8 +6,9 @@ body {
 .container {
     display: flex;
     
+    
 }
-a {
+nav a {
     text-decoration: none;
     border: solid;
     border-radius: 5px;
@@ -20,6 +21,7 @@ nav {
     height: fit-content;
     font-size: 30px;
     flex-grow: 1;
+    margin-left:10px;
 }
 main {
     flex-grow: 20;
