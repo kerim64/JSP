@@ -38,6 +38,13 @@ h1 {
 }
 h2 {
     margin: 0;
+    text-align: center;
+    border: solid;
+    padding: 10px 0;
+    border-radius: 5px;
+}
+p {
+    text-align: justify;
 }
 .imgChurchFinke {
     object-fit: contain;
