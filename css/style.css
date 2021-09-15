@@ -25,6 +25,7 @@ nav {
 }
 main {
     flex-grow: 20;
+    margin: 0 30px;
     
 }
 h1 {
@@ -37,4 +38,13 @@ h1 {
 }
 h2 {
     margin: 0;
+}
+.imgChurchFinke {
+    object-fit: contain;
+    margin: 20px 0;
+    
+}
+.imgChurchFinke img {
+    width: 300px;
+    
 }
