@@ -1,3 +1,3 @@
-# I make a site for a Church (gratis project).
+# I make a site for a Church.
  
 
